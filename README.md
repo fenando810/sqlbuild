@@ -5,7 +5,7 @@
 ## 导入
 
 ```go
-import "github.com/fenando810/sqlbuilder"
+import "github.com/fenando810/sqlbuild"
 ```
 
 ## 快速开始
